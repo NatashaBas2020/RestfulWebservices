@@ -12,7 +12,7 @@ public class InputFormValidator {
 		if(param1.isEmpty()) {
 			errList.add("Param1 is empty");
 		}
-		if(param1.isEmpty()) {
+		if(param2.isEmpty()) {
 			errList.add("Param2 is empty");
 		}
 		//Length check
