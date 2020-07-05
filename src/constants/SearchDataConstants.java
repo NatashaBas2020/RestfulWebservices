@@ -21,4 +21,6 @@ public class SearchDataConstants {
 	public static final String TABLE_HEADING3 = "Restaurant Price";
 	public static final String TABLE_HEADING4 = "Telephone";
 	
+	/* this is an additional line to be deleted */
+	
 }
