@@ -23,4 +23,7 @@ public class SearchDataConstants {
 	
 	/* this is an additional line to be deleted */
 	
+	
+	/* this is the second additional line to be deleted */
+	
 }
